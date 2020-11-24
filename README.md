@@ -5,6 +5,6 @@ https://ggle.io/3dLm
 
 
    - git clone https://github.com/Apollo1207/AlgoritmLabs 
-   - cd AlgoritmLabs/Lab-23
+   - cd AlgoritmLabs/Lab-3
    - python3 app.py 
 
